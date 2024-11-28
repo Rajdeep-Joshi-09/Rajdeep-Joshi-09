@@ -29,12 +29,7 @@
 - 📖 Currently mastering **React** and **Tailwind CSS**.  
 - 🏗️ Building expertise in **Full-Stack Development**.
 
----
 
-## 📊 GitHub Stats  
-
-![Rajdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajdeepJoshi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepJoshi&layout=compact&theme=radical)  
 
 ---
 
