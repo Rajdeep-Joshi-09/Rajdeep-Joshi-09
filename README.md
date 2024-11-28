@@ -31,12 +31,6 @@
 
 ---
 
-## 📊 Contribution Graph
-
-![Rajdeep's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=RajdeepJoshi&theme=react-dark)
-
----
-
 ## 📊 GitHub Stats  
 
 ![Rajdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajdeepJoshi&show_icons=true&theme=radical)  
