@@ -1,3 +1,6 @@
+##visitors
+![](https://komarev.com/ghpvc/?username=Rajdeep-Joshi-09&style=plastic&color=blue)
+
 # 👋 Hi, I'm Rajdeep Joshi!  
 
 🎯 Aspiring Pro Software Developer | 🌱 Currently mastering Tailwind CSS, React, and Full-Stack Development  
