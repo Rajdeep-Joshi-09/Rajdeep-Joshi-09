@@ -1,9 +1,6 @@
-
-
 # 👋 Hi, I'm Rajdeep Joshi!  
 
-🎯 Aspiring Pro Software Developer | 🌱 Currently mastering Tailwind CSS, React, and Full-Stack Development  
-🚀 Building my dream career in software development by learning, creating, and sharing!  
+💻 Software Developer | 🚀 Passionate about Building Real-World Solutions | 🔧 Full-Stack Tech Enthusiast  
 
 ---
 
@@ -18,8 +15,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
-### Backend (Soon!)  
-- Node.js, Express.js, MongoDB  
+### Backend  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
+
+### Tools & Utilities  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+![SSMS](https://img.shields.io/badge/SSMS-0078D7?style=flat-square&logo=microsoft&logoColor=white)  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)  
 
 ### DevOps (Future Plans!)  
 - Kubernetes, AWS  
@@ -28,8 +31,9 @@
 
 ## 🌟 My Journey  
 
-- 📖 Currently mastering **React** and **Tailwind CSS**.  
-- 🏗️ Building expertise in **Full-Stack Development**.
+- 🧠 Always leveling up in **React**, **ASP.NET**, and **Backend Development**.  
+- 🏗️ Crafting real-world apps with a Full-Stack mindset.  
+- 📦 Exploring APIs, databases, and everything in between.
 
 ---
 
@@ -39,4 +43,4 @@
 
 ---
 
-🚀 _Let's create, innovate, and grow together!_ 🚀
+🚀 _Let’s create, innovate, and dominate the tech world together!_ 🚀
