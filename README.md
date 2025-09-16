@@ -17,8 +17,8 @@
 
 ### Backend  
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ### Tools & Utilities  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
